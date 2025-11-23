@@ -1,0 +1,3 @@
+fastapi>=0.90
+uvicorn[standard]>=0.18
+httpx>=0.24
