@@ -1,4 +1,0 @@
-fastapi>=0.90
-uvicorn[standard]>=0.18
-httpx>=0.24
-graypy>=2.1.0
